@@ -1,6 +1,6 @@
 import { useEffect, useRef } from 'react';
 
-import { initialiseThree } from './three.js'
+import { initialiseThree } from './threeJs'
 
 function App() {
   const threeRef = useRef();
